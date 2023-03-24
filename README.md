@@ -1,6 +1,6 @@
 ![](https://typora-ilgzh.oss-cn-beijing.aliyuncs.com/202303241424670.jpeg)
 
-# 边缘检测
+# 图像着色
 
 ## 介绍
 
